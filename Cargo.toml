@@ -1,0 +1,10 @@
+[package]
+
+name = "mirror"
+version = "0.0.1"
+authors = [ "Piotr Trzpil <piotr.trzpil@gmail.com>" ]
+
+[dependencies.iron]
+version = "*"
+[dependencies.time]
+version = "*"
